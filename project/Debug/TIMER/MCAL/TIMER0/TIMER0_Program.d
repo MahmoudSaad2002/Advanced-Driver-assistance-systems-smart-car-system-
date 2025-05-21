@@ -1,0 +1,20 @@
+TIMER/MCAL/TIMER0/TIMER0_Program.o TIMER/MCAL/TIMER0/TIMER0_Program.o:  \
+ ../TIMER/MCAL/TIMER0/TIMER0_Program.c \
+  ../TIMER/MCAL/TIMER0/../../LIB/STD_Types.h \
+  ../TIMER/MCAL/TIMER0/../../LIB/BIT_Math.h \
+  ../TIMER/MCAL/TIMER0/TIMER0_Register.h \
+  ../TIMER/MCAL/TIMER0/TIMER0_private.h \
+  ../TIMER/MCAL/TIMER0/TIMER0_interface.h \
+  ../TIMER/MCAL/TIMER0/TIMER0_config.h
+
+../TIMER/MCAL/TIMER0/../../LIB/STD_Types.h:
+
+../TIMER/MCAL/TIMER0/../../LIB/BIT_Math.h:
+
+../TIMER/MCAL/TIMER0/TIMER0_Register.h:
+
+../TIMER/MCAL/TIMER0/TIMER0_private.h:
+
+../TIMER/MCAL/TIMER0/TIMER0_interface.h:
+
+../TIMER/MCAL/TIMER0/TIMER0_config.h:

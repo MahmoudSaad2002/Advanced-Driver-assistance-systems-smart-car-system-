@@ -1,0 +1,7 @@
+#ifndef GLOBAL_INTERRUPT_PRIVATE_H_
+#define GLOBAL_INTERRUPT_PRIVATE_H_
+
+#define I 	7
+
+
+#endif /* GLOBAL_INTERRUPT_PRIVATE_H_ */
