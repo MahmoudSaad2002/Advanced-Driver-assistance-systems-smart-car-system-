@@ -2,7 +2,7 @@
  * program.C
  *
  *  Created on: Aug 25, 2024
- *      Author: ahmed
+ *      Author: mahmoud saad 
  */
 #include "LIB/BIT_MATH.h"
 #include "LIB/STD_TYPES.h"
